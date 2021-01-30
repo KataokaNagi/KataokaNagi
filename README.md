@@ -35,5 +35,5 @@ Copyright (c) 2021 Kataoka Nagi
 &emsp; [📝 Technical Articles](https://hackmd.io/@xcalmx)  
 &emsp; [🕊 Twitter](https://twitter.com/calm_IRL)  
 &emsp; [😎 Facebook](https://www.facebook.com/KataokaNagi)  
-&emsp; [📷 Instagram](https://www.instagram.com/calm_cook/?fbclid=IwAR2v04WRhhks4MHAuyolwcWrq6X5NPVizC8J_NSZi6gelpS83QvPgcTYwRs)  
+&emsp; [🍳 Instagram](https://www.instagram.com/calm_cook/?fbclid=IwAR2v04WRhhks4MHAuyolwcWrq6X5NPVizC8J_NSZi6gelpS83QvPgcTYwRs)  
 &emsp; [🎵 SoundCloud](https://soundcloud.com/user-9069691)  
