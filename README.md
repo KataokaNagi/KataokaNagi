@@ -31,9 +31,9 @@ Copyright (c) 2021 Kataoka Nagi
 -->
   
 ## Links
- 　📝 Portfolio Websites (Now bulilding)<!-- ](https://KataokaNagi.github.io/index.html)  -->  
- 　📝 [Technical Articles](https://hackmd.io/@xcalmx)  
- 　🕊 [Twitter](https://twitter.com/calm_IRL)  
- 　😎 [Facebook](https://www.facebook.com/KataokaNagi)  
- 　📷 [Instagram](https://www.instagram.com/calm_cook/?fbclid=IwAR2v04WRhhks4MHAuyolwcWrq6X5NPVizC8J_NSZi6gelpS83QvPgcTYwRs)  
-　🎵 [SoundCloud](https://soundcloud.com/user-9069691)  
+&emsp; 📝 Portfolio Websites (Now bulilding)<!-- ](https://KataokaNagi.github.io/index.html)  -->  
+&emsp; [📝 Technical Articles](https://hackmd.io/@xcalmx)  
+&emsp; [🕊 Twitter](https://twitter.com/calm_IRL)  
+&emsp; [😎 Facebook](https://www.facebook.com/KataokaNagi)  
+&emsp; [📷 Instagram](https://www.instagram.com/calm_cook/?fbclid=IwAR2v04WRhhks4MHAuyolwcWrq6X5NPVizC8J_NSZi6gelpS83QvPgcTYwRs)  
+&emsp; [🎵 SoundCloud](https://soundcloud.com/user-9069691)  
