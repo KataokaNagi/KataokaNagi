@@ -37,3 +37,4 @@ Copyright (c) 2021 Kataoka Nagi
 &emsp; [😎 Facebook](https://www.facebook.com/KataokaNagi)  
 &emsp; [🍳 Instagram](https://www.instagram.com/calm_cook/?fbclid=IwAR2v04WRhhks4MHAuyolwcWrq6X5NPVizC8J_NSZi6gelpS83QvPgcTYwRs)  
 &emsp; [🎵 SoundCloud](https://soundcloud.com/user-9069691)  
+&emsp; [✎ Studyplus](https://www.studyplus.jp/users/95427d348bad11e6ab7e22000aba8322)  
