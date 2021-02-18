@@ -31,7 +31,7 @@ Copyright (c) 2021 Kataoka Nagi
 -->
   
 ## Links
-&emsp; 📝 Portfolio Websites (Under Development)<!-- ](https://KataokaNagi.github.io/index.html)  -->  
+&emsp; [📝 Portfolio Websites (Under Development)](https://kataokanagi.github.io/portfolio-websites/index.html)  
 &emsp; [📝 Technical Articles](https://hackmd.io/@xcalmx)  
 &emsp; [🕊 Twitter](https://twitter.com/calm_IRL)  
 &emsp; [😎 Facebook](https://www.facebook.com/KataokaNagi)  
