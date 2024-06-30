@@ -29,13 +29,15 @@ Copyright (c) 2021 Kataoka Nagi
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataokaNagi" />
 </a>
 -->
-  
+
+<!--  
 ## Links
 &emsp; [📝 Portfolio Websites (Under Development)](https://kataokanagi.github.io/portfolio-websites/index.html)  
 &emsp; [📝 Articles](https://hackmd.io/@xcalmx)  
 &emsp; [🔰 AtCoder](https://atcoder.jp/users/KataokaNagi)  
-&emsp; [🕊 Twitter](https://twitter.com/calm_IRL)  
+&emsp; [🕊 Twitter](https://twitter.com/nagi_IRL)  
 &emsp; [😎 Facebook](https://www.facebook.com/KataokaNagi)  
 &emsp; [🍳 Instagram](https://www.instagram.com/calm_cook/?fbclid=IwAR2v04WRhhks4MHAuyolwcWrq6X5NPVizC8J_NSZi6gelpS83QvPgcTYwRs)  
 &emsp; [🎵 SoundCloud](https://soundcloud.com/user-9069691)  
 &emsp; [✎ Studyplus](https://www.studyplus.jp/users/95427d348bad11e6ab7e22000aba8322)  
+-->
